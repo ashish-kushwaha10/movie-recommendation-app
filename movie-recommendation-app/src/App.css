@@ -9,7 +9,8 @@
   border: 2px solid wheat;
 } */
 .genre button{
-  margin-right: 1rem;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
   padding: 10px 25px;
   
 }
@@ -26,14 +27,14 @@
   transition: 0.7s;
 }
 .movies{
-  padding: 15px 30px;
+  padding: 15px 10px;
   
 }
 .movie-items{
   margin: auto auto;
   margin-top: 30px ;
   border: 2px solid white;
-  width: 30rem;
+  width: 20rem;
 }
 
 

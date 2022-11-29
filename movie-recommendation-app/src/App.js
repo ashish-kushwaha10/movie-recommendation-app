@@ -51,7 +51,7 @@ const movieCollection = {
       Rating: 8.1
     },
     {
-      name: "Jaane Tu Ya Jaane Na",
+      name: "ashiki",
       year: 2010,
       Rating: 8
     }
@@ -76,7 +76,7 @@ function App() {
   }
   return (
     <div className="App">
-      <h1>some best movie recommendation for you🎞🎞</h1>
+      <h1>some best movie recommendation for you🎞😍</h1>
       <div className='genre'>
 
         {
